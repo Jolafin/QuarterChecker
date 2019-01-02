@@ -1,0 +1,19 @@
+{
+  "name": "quarterchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Qchecker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jolafin/QuarterChecker.git"
+  },
+  "author": "Jody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jolafin/QuarterChecker/issues"
+  },
+  "homepage": "https://github.com/Jolafin/QuarterChecker#readme"
+}
